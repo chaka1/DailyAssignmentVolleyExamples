@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Chaka/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-8ae68d76825fd216bf6f1ae74eb77a8b6d9463e6.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/libs/simple-xml-2.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="314910df77771b33c481a175fbde56fd9295d58a">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/simple-xml-2.4.1-3b05d17485d0a29f7b6680f3db06b5bcc53b89a6.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/volley-fe5db32f31c0af47dfd6ed673b9e2d7dea17ef5e.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/classes-62c51f5cd622df4b04623b368af74a1b0a80b23e.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/classes-c0524766c8bd60506cc1988d9ab244b1b1b1bf09.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/classes-695c87ab888c4e15d06601a9fa32cd815781957f.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-d1c3037371e0191144c3d21e9e77504d8963a14a.jar" />
+    </item>
+    <item
+        jar="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Chaka/GitHub/UK_Android_Training/Day5_Material_Design/Code/Google_Template_MaterialDesign/VolleyExamples/app/build/intermediates/pre-dexed/debug/classes-5d503a1f35800eedccb3fd8998ff87ca07ada687.jar" />
+    </item>
+
+</items>
